@@ -50,4 +50,5 @@ let mySprite2 = sprites.create(img`
 music.baDing.play()
 music.baDing.play()
 music.baDing.play()
+controller.player2.moveSprite(mySprite)
 let mySprite3 = 0
