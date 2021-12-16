@@ -1,7 +1,12 @@
 function level () {
     tiles.setTilemap(tilemap`層級2`)
 }
-level()
+let projectile = 0
+if (projectile == 0) {
+    level()
+} else {
+	
+}
 let mySprite = sprites.create(img`
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
@@ -23,4 +28,22 @@ let mySprite = sprites.create(img`
 controller.moveSprite(mySprite, 100, 0)
 scene.cameraFollowSprite(mySprite)
 mySprite.ay = 200
-mySprite.setVelocity(50, 50)
+mySprite.setVelocity(100, 50)
+let mySprite2 = sprites.create(img`
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    `, SpriteKind.Player)
