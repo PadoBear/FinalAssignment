@@ -50,3 +50,4 @@ let mySprite2 = sprites.create(img`
 music.baDing.play()
 music.baDing.play()
 music.baDing.play()
+let mySprite3 = 0
