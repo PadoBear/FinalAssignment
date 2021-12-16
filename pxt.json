@@ -1,11 +1,12 @@
 {
-    "name": "期末專案 - Copy - Copy",
+    "name": "期末專案 ",
     "version": "1.0.0",
     "description": "",
     "dependencies": {
         "device": "*",
         "animation": "*",
-        "controller": "*"
+        "controller": "*",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.1"
     },
     "files": [
         "main.blocks",
