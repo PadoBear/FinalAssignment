@@ -32,4 +32,21 @@
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
-`</field><data>{"commentRefs":[],"fieldData":{"img":"=$BXn5wKPz0~q@9A{jU)"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="hP.x/%zdW*~*%SM5{fB]"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="mixer_play_sound" id="XB5Oo50|JspBzQqo1dW0"><field name="sound">music.baDing</field><next><block type="mixer_play_sound" id="T~SNx!`Dd9GmvSTs~N5m"><field name="sound">music.baDing</field><next><block type="mixer_play_sound" id="c(Qe7zu8S%D45d5l,ePx"><field name="sound">music.baDing</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
+`</field><data>{"commentRefs":[],"fieldData":{"img":"=$BXn5wKPz0~q@9A{jU)"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="hP.x/%zdW*~*%SM5{fB]"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="mixer_play_sound" id="XB5Oo50|JspBzQqo1dW0"><field name="sound">music.baDing</field><next><block type="mixer_play_sound" id="T~SNx!`Dd9GmvSTs~N5m"><field name="sound">music.baDing</field><next><block type="mixer_play_sound" id="c(Qe7zu8S%D45d5l,ePx"><field name="sound">music.baDing</field><next><block type="variables_set" id="z1}kvC:*v}](@r7@Q-!u"><field name="VAR" id="mbU*v=v8*(BkE@R;Z.{I">mySprite3</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="B#G4snPOmLh??ppT)_qa"><value name="img"><shadow type="screen_image_picker" id="$gSyw98}*:0*vp;xBc}2"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"$gSyw98}*:0*vp;xBc}2"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id=";Z|6qnam_)V[Zz@)*Fya"><field name="MEMBER">Player</field></shadow></value></block></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
