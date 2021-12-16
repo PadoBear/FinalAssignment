@@ -1,5 +1,6 @@
 {
     "name": "期末專案 - Copy - Copy",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "device": "*",
